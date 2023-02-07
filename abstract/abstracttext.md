@@ -13,7 +13,7 @@ A multi-body SSM pipeline was implemented in MATLAB (MathWorks, USA) on an exemp
 
 ## Results: 
 <p align="center">
-  <img src="../abstract/views.png" alt="Dorsal-Palmar and Radio-Ulnar plane views of four fingers; mean and extremes (+/- 2std) in PC1" width="600"/>
+  <img src="../abstract/views.png" alt="Dorsal-Palmar and Radio-Ulnar plane views of four fingers; mean and extremes (+/- 2std) in PC1" width="400"/>
 </p>
 
 The first PC represented phalanx size in all fingers and accounted for over 45% of the variation (Fig.1). Gross measures were extracted to illustrate this variation in scale (Table 1). Subsequent PCs showed variation in position along the palmar-dorsal axis and bone breadth. Repositioning successfully removed joint flexion variation from the PC results. The model has been shared as an open-source repository (https://github.com/abel-research/OpenHands).  
