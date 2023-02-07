@@ -13,7 +13,7 @@ A multi-body SSM pipeline was implemented in MATLAB (MathWorks, USA) on an exemp
 
 ## Results: 
 <p align="center">
-  <img src="../abstract/Views.png" alt="Dorsal-Palmar and Radio-Ulnar plane views of four fingers; mean and extremes (+/- 2std) in PC1" width="600"/>
+  <img src="../abstract/views.png" alt="Dorsal-Palmar and Radio-Ulnar plane views of four fingers; mean and extremes (+/- 2std) in PC1" width="600"/>
 </p>
 
 The first PC represented phalanx size in all fingers and accounted for over 45% of the variation (Fig.1). Gross measures were extracted to illustrate this variation in scale (Table 1). Subsequent PCs showed variation in position along the palmar-dorsal axis and bone breadth. Repositioning successfully removed joint flexion variation from the PC results. The model has been shared as an open-source repository (https://github.com/abel-research/OpenHands).  
@@ -22,9 +22,9 @@ The first PC represented phalanx size in all fingers and accounted for over 45% 
 This study presents a pipeline for generating an anonymised finger SSM from healthy, living participants. The model describes a small, homogeneous population, and assumptions cannot be made about how it represents individuals outside the training dataset. However, it supplements gross anthropometric datasets with additional shape information, and if trained with additional CT images the model may be of use for investigating factors such as joint morphology, and for design of hand-interfacing devices and products. We encourage the community to use it, and to contribute. 
 
 ## References: 
-[1] Rusli & Kedgley (2020), Prosthesis, https://doi.org/10.3390/prosthesis3040027;  
-[2] Metcalf et al. (2020), Biomech Model Mechanobiol, https://doi.org/10.1007/s10237-019-01195-5;  
-[3] Manu, nonrigidICP, MATLAB Central.  
+[1] Rusli & Kedgley (2020), Biomech Model Mechanobiol, https://doi.org/10.1007/s10237-019-01257-8;  
+[2] Metcalf et al. (2020), Annals of Biomedical Engineering https://doi.org/10.1007/s10439-020-02476-2;  
+[3] Manu (2021). nonrigidICP Version 1.16.0.2 (https://www.mathworks.com/matlabcentral/fileexchange/41396-nonrigidicp), MATLAB Central File Exchange.
 
 ## Acknowledgments and Funding: 
 We thank Prof D Warwick, Dr L King, Dr A Darekar, and C Everitt for development of the imaging protocol and original data collection. This research was supported by funding from the European Union's Horizon 2020 program (ref. 863183).
