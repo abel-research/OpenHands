@@ -22,8 +22,8 @@ Funding
 --------
 
 The research behind this dataset was funded by the following organisations:
-- the Alan Turing Institute, UK (grant no. EP/N510129/1 (A Dickinson))
 - the Engineering & Physical Sciences Research Council (EPSRC), UK (T Munyebvu)
+- the Alan Turing Institute, UK (grant no. EP/N510129/1 (A Dickinson))
 
 Ethical Approvals
 --------
