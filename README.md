@@ -9,6 +9,7 @@ OpenHands is a resource which contains a statistical description of finger bones
 <p align="center">
   <img src="../abstract/views.png" alt="Dorsal-Palmar and Radio-Ulnar plane views of four fingers; mean and extremes (+/- 2std) in PC1" width="400"/>
 </p>
+Dorsal-Palmar and Radio-Ulnar plane views of four fingers; mean and extremes (+/- 2std) in PC1
 
 This dataset is intended to allow the research community to perform more statistically robust hand biomechanics research, without the costs, inconvenience, and risk of putting our research participants through medical imaging, especially where CT involves ionising radiation.
 
