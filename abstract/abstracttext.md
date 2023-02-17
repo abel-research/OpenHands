@@ -12,10 +12,9 @@ Hand osteoarthritis (OA) affects joint movement and function, greatly impacting 
 A multi-body SSM pipeline was implemented in MATLAB (MathWorks, USA) on an exemplar training population of 10 right hands, imaged by CT at 0.3mm resolution, segmented, meshed and aligned [2]. Consenting participants (5F:5M, 27-37yrs) were free from disease or injury (ethics refs: IRAS 14/LO/1059 & ERGO 61718). Model generation included 1) non-rigid registration [3] for point correspondence between datasets, 2) estimation of interphalangeal joint axes and placing them into neutral flexion, to remove alignment variation during imaging, and 3) principal component analysis (PCA) for dimensionality reduction of size and shape variation. Nine principal components (PCs) of morphological variation were found for the distal, medial and proximal phalanx of the index, middle, ring and little finger. A Leave-One-Out cross-validation test was performed, calculating the mean vertex error in reconstructing the mean shape.
 
 ## Results: 
-<p align="center">
-  <img src="../abstract/views.png" alt="Dorsal-Palmar and Radio-Ulnar plane views of four fingers; mean and extremes (+/- 2std) in PC1" width="400"/>
-</p>
-<p align="center">Dorsal-Palmar and Radio-Ulnar plane views of four fingers; mean and extremes (+/- 2std) in PC1</p> 
+| <img src="../abstract/views.png" alt="Dorsal-Palmar and Radio-Ulnar plane views of four fingers; mean and extremes (+/- 2std) in PC1" width="400"/> | 
+|:--:| 
+| *Dorsal-Palmar and Radio-Ulnar plane views of four fingers; mean and extremes (+/- 2std) in PC1* |
 
 The first PC represented phalanx size in all fingers and accounted for over 45% of the variation (Fig.1). Gross measures were extracted to illustrate this variation in scale (Table 1). Subsequent PCs showed variation in position along the palmar-dorsal axis and bone breadth. Repositioning successfully removed joint flexion variation from the PC results. The model has been shared as an open-source repository (https://github.com/abel-research/OpenHands).  
 
@@ -25,7 +24,8 @@ The first PC represented phalanx size in all fingers and accounted for over 45% 
 |     3         |     19.2 (1.4)    |     30.2 (1.7)    |     46.1 (2.6)    |     95.6 (5.3)    |
 |     4         |     19.8 (1.6)    |     28.9 (1.7)    |     42.9 (2.5)    |     91.6 (5.5)    |
 |     5         |     18.2 (1.8)    |     20.7 (1.9)    |     34.3 (2.3)    |     73.1 (5.5)    |
-<p align="center">Table 1: Mean (standard deviation) bone lengths in mm from PC1</p> 
+
+*Table 1: Mean (standard deviation) bone lengths in mm from PC1</p>*
 
 ## Discussion: 
 This study presents a pipeline for generating an anonymised finger SSM from healthy, living participants. The model describes a small, homogeneous population, and assumptions cannot be made about how it represents individuals outside the training dataset. However, it supplements gross anthropometric datasets with additional shape information, and if trained with additional CT images the model may be of use for investigating factors such as joint morphology, and for design of hand-interfacing devices and products. We encourage the community to use it, and to contribute. 
