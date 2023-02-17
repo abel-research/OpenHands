@@ -15,8 +15,17 @@ A multi-body SSM pipeline was implemented in MATLAB (MathWorks, USA) on an exemp
 <p align="center">
   <img src="../abstract/views.png" alt="Dorsal-Palmar and Radio-Ulnar plane views of four fingers; mean and extremes (+/- 2std) in PC1" width="400"/>
 </p>
+<p align="center">Dorsal-Palmar and Radio-Ulnar plane views of four fingers; mean and extremes (+/- 2std) in PC1</p> 
 
 The first PC represented phalanx size in all fingers and accounted for over 45% of the variation (Fig.1). Gross measures were extracted to illustrate this variation in scale (Table 1). Subsequent PCs showed variation in position along the palmar-dorsal axis and bone breadth. Repositioning successfully removed joint flexion variation from the PC results. The model has been shared as an open-source repository (https://github.com/abel-research/OpenHands).  
+
+|     Finger    |     DP            |     MP            |     PP            |     Total         |
+|---------------|-------------------|-------------------|-------------------|-------------------|
+|     2         |     17.9 (1.4)    |     25.2 (1.6)    |     41.1 (2.3)    |     84.3 (4.9)    |
+|     3         |     19.2 (1.4)    |     30.2 (1.7)    |     46.1 (2.6)    |     95.6 (5.3)    |
+|     4         |     19.8 (1.6)    |     28.9 (1.7)    |     42.9 (2.5)    |     91.6 (5.5)    |
+|     5         |     18.2 (1.8)    |     20.7 (1.9)    |     34.3 (2.3)    |     73.1 (5.5)    |
+<p align="center">Table 1: Mean (standard deviation) bone lengths in mm from PC1</p> 
 
 ## Discussion: 
 This study presents a pipeline for generating an anonymised finger SSM from healthy, living participants. The model describes a small, homogeneous population, and assumptions cannot be made about how it represents individuals outside the training dataset. However, it supplements gross anthropometric datasets with additional shape information, and if trained with additional CT images the model may be of use for investigating factors such as joint morphology, and for design of hand-interfacing devices and products. We encourage the community to use it, and to contribute. 
