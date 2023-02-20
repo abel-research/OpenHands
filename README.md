@@ -35,7 +35,7 @@ Original MRI data collection work was granted ethical approval by the UK's Natio
 Acknowledgments
 --------
 
-This model is built using data collected with expert clinical partners at University Hospital Southampton NHS Trust, Professor David Warwick, Dr Leonard King, Dr Angela Darekar and Chris Everitt.
+This model is built using data collected with expert clinical partners at University Hospital Southampton NHS Trust, Professor David Warwick, Dr Leonard King, Dr Angela Darekar and Chris Everitt, with University of Southampton engineers Dr Chris Philipps and Dr Alex Forrester.
 
 License
 --------
