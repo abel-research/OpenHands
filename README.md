@@ -32,6 +32,11 @@ This secondary data analysis work was granted ethical approval by the University
 
 Original MRI data collection work was granted ethical approval by the UK's National Research Ethics Service (NRES, ref 14/LO/1059)
 
+Acknowledgments
+--------
+
+This model is built using data collected with expert clinical partners at University Hospital Southampton NHS Trust, Professor David Warwick, Dr Leonard King, Dr Angela Darekar and Chris Everitt.
+
 License
 --------
 
@@ -44,4 +49,4 @@ How to acknowledge
 OpenHands has been submitted for publication at the 2023 European Society for Biomechanics conference, and the abstract is included here. Please check back here in time, for a doi and full reference for you to cite if you use the dataset. 
 
 Please cite as:
-T.A. Munyebvu, C.D. Metcalf, M. Browne, M.O.W. Heller and A.S. Dickinson (2023), Open Hands: an Open Source Statistical Finger Model [https://github.com/abel-research/OpenHands](https://github.com/abel-research/OpenHands).
+T.A. Munyebvu, C.D. Metcalf, C.B. Burson Thomas, M. Browne, M.O.W. Heller and A.S. Dickinson (2023), Open Hands: an Open Source Statistical Finger Model [https://github.com/abel-research/OpenHands](https://github.com/abel-research/OpenHands).
