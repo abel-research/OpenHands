@@ -46,7 +46,7 @@ Share Alike means that if you remix, transform, or build upon the dataset, you m
 How to acknowledge
 ------------------
 
-OpenHands was presented at the 2023 European Society for Biomechanics conference on 10th July 2023, and the abstract is included here, and at the [conference web page](https://esbiomech.org/conference/esb2023/paper-abstracts/). Please check back here in time, for a doi and full reference for you to cite if you use the dataset. 
+OpenHands was presented at the 2023 European Society for Biomechanics conference on 10th July 2023, and the abstract is included here, and at the [conference web page](https://esbiomech.org/conference/esb2023/paper-abstracts/). The full peer-reviewed paper has now been accepted for publication. Please check back here in time, for a doi and full reference for you to cite if you use the dataset. 
 
 Please cite as:
-T.A. Munyebvu, C.D. Metcalf, C.B. Burson Thomas, M. Browne, M.O.W. Heller and A.S. Dickinson (2023), Open Hands: an Open Source Statistical Finger Model. 28th Congress of the European Society of Biomechanics, Maastricht, The Netherlands, July 9-12, 2023 [https://github.com/abel-research/OpenHands](https://github.com/abel-research/OpenHands).
+T.A. Munyebvu, C.D. Metcalf, C.B. Burson Thomas, D. Warick, C. Everitt, L. King, A. Darekar, M. Browne, M.O.W. Heller and A.S. Dickinson (2024), Open Hands: An Open-Source Statistical Shape Model of the Finger Bones. Annals of Biomedical Engineering, IN PRESS [https://github.com/abel-research/OpenHands](https://github.com/abel-research/OpenHands).
