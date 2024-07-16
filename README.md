@@ -1,7 +1,7 @@
 # OpenHands
 An Open-Source finger bony anatomy dataset
 
-**DOI:** [![DOI](https://img.shields.io/badge/doi-TBC-brightgreen)](https://doi.org/10.1007/s10439-024-03560-7)
+**DOI:** [![DOI](https://img.shields.io/badge/https://doi.org/10.1007/s10439-024-03560-7-brightgreen)](https://doi.org/10.1007/s10439-024-03560-7)
 **License:** [![License](https://img.shields.io/badge/license-CC--BY--SA--4.0-green)](../main/LICENSE)
 
 OpenHands is a resource which contains a statistical description of finger bones based upon CT scan data collected by the University of Southampton, UK. The Machine Learning method Principal Component Analysis (PCA) has been used to reduce the dimensionality of this anatomic dataset to generate a mean finger bone shape, and independent modes of shape variation (Figure 1, below). As such, the dataset describes the anatomic variation across the training dataset without including any identifiable representation of the individuals.
