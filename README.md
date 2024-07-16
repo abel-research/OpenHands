@@ -1,7 +1,7 @@
 # OpenHands
 An Open-Source finger bony anatomy dataset
 
-**DOI:** [![DOI](https://img.shields.io/badge/doi-https://doi.org/10.1007/s10439--024--03560--7-brightgreen)](https://doi.org/10.1007/s10439-024-03560-7)
+**DOI:** [![DOI](https://img.shields.io/badge/doi-10.1007/s10439--024--03560--7-brightgreen)](https://doi.org/10.1007/s10439-024-03560-7)
 **License:** [![License](https://img.shields.io/badge/license-CC--BY--SA--4.0-green)](../main/LICENSE)
 
 OpenHands is a resource which contains a statistical description of finger bones based upon CT scan data collected by the University of Southampton, UK. The Machine Learning method Principal Component Analysis (PCA) has been used to reduce the dimensionality of this anatomic dataset to generate a mean finger bone shape, and independent modes of shape variation (Figure 1, below). As such, the dataset describes the anatomic variation across the training dataset without including any identifiable representation of the individuals.
@@ -49,4 +49,4 @@ How to acknowledge
 OpenHands was presented at the 2023 European Society for Biomechanics conference on 10th July 2023, and the abstract is included here, and at the [conference web page](https://esbiomech.org/conference/esb2023/paper-abstracts/). The full peer-reviewed paper has now been accepted for publication. Please check back here in time, for a doi and full reference for you to cite if you use the dataset. 
 
 Please cite as:
-T.A. Munyebvu, C.D. Metcalf, C.B. Burson Thomas, D. Warick, C. Everitt, L. King, A. Darekar, M. Browne, M.O.W. Heller and A.S. Dickinson (2024), Open Hands: An Open-Source Statistical Shape Model of the Finger Bones. Annals of Biomedical Engineering, IN PRESS [https://github.com/abel-research/OpenHands](https://github.com/abel-research/OpenHands).
+T.A. Munyebvu, C.D. Metcalf, C.B. Burson Thomas, D. Warick, C. Everitt, L. King, A. Darekar, M. Browne, M.O.W. Heller and A.S. Dickinson (2024), Open Hands: An Open-Source Statistical Shape Model of the Finger Bones. Annals of Biomedical Engineering, [IN PRESS](https://doi.org/10.1007/s10439-024-03560-7) [https://github.com/abel-research/OpenHands](https://github.com/abel-research/OpenHands).
